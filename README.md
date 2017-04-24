@@ -1,5 +1,7 @@
 ### This is a daily programming challenge from reddit's daily programmer subreddit.  
 
+### Link: https://www.reddit.com/r/dailyprogrammer/comments/40rs67/20160113_challenge_249_intermediate_hello_world/
+
 ## Description
 
 ### Use either an Evolutionary or Genetic Algorithm to evolve a solution to the fitness functions provided!
